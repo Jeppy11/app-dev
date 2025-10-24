@@ -1,5 +1,5 @@
 ## Megami Tensei Series
-(![SMT](https://github.com/user-attachments/assets/bc629b0e-8203-46c7-9a24-c19af69108a4))
+![SMT](https://github.com/user-attachments/assets/bc629b0e-8203-46c7-9a24-c19af69108a4)
 
 Megami Tensei was originally a novel known as Digital Devil Series: Megami Tensei by Aya Nishitani. A game company known as ATLUS took the series and expanded upon it, becoming it's mainstay franchise. It now evolves into Shin Megami Tensei as its mainline series along with sub-series like Raidou Kuzunoha, Devil Survivor, Devil Summoner, Digital Devil Saga and the more recognizable out of the bunch: Persona. The franchise vary from itself from tone and storytelling style but the main selling points are the monster collection. Similar to Pokemon, you use allied monsters known as "Demons" to fight off Demons that are trying to defeat you. The main difference is that these creatures are based on Mythologies, Fiction and religion.
 
